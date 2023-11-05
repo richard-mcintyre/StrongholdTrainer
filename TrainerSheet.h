@@ -1,7 +1,7 @@
 #if !defined(AFX_TRAINERSHEET_H__7D0937DC_9851_4B4C_B8AA_77CD077C976F__INCLUDED_)
 #define AFX_TRAINERSHEET_H__7D0937DC_9851_4B4C_B8AA_77CD077C976F__INCLUDED_
 
-#include "..\TRAINERTEST\Trainer.h"	// Added by ClassView
+#include "Trainer.h"	// Added by ClassView
 #if _MSC_VER > 1000
 #pragma once
 #endif // _MSC_VER > 1000

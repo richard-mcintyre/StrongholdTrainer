@@ -179,9 +179,9 @@ void CHyperLink::OnMouseMove(UINT nFlags, CPoint point)
 // lines of code and more reliable than turning on SS_NOTIFY in OnCtlColor
 // because Windows doesn't send WM_CTLCOLOR to bitmap static controls."
 // (Paul DiLascia)
-UINT CHyperLink::OnNcHitTest(CPoint /*point*/) 
+LRESULT CHyperLink::OnNcHitTest(CPoint /*point*/)
 {
-		return HTCLIENT;	
+	return HTCLIENT;
 }
 
 void CHyperLink::OnLButtonDown(UINT /*nFlags*/, CPoint /*point*/) 
