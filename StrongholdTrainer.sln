@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StrongholdTrainer", "StrongholdTrainer.vcproj", "{007B4CF1-61D3-4330-91C2-5DE97EB21AE4}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{007B4CF1-61D3-4330-91C2-5DE97EB21AE4}.Debug.ActiveCfg = Debug|Win32
+		{007B4CF1-61D3-4330-91C2-5DE97EB21AE4}.Debug.Build.0 = Debug|Win32
+		{007B4CF1-61D3-4330-91C2-5DE97EB21AE4}.Release.ActiveCfg = Release|Win32
+		{007B4CF1-61D3-4330-91C2-5DE97EB21AE4}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
